@@ -67,7 +67,7 @@ I'm a Web & Software Development student who loves to learn by building. From fr
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: abhikmahajan01@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/abhik-mahajan)
 
 ---

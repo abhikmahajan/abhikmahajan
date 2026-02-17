@@ -72,6 +72,10 @@ I'm a Web & Software Development student who loves to learn by building. From fr
 
 ---
 
+![240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58](https://github.com/agrim92/agrim92/assets/68190624/a76de72d-0283-4c55-99a9-94642c41ca88)
+
+---
+
 Thanks for stopping by! Let’s build something awesome. 🚀
 
 
